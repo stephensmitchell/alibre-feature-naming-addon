@@ -33,7 +33,7 @@ N/A
 
 See Releases for the installer and portable .zip file.
 
-# Documentation
+## Documentation
 
 N/A
 
